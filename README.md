@@ -1,41 +1,35 @@
-# 👨‍💻 Hassan Hussein (Omara)
-### **Software Engineer | Mobile Solutions Architect | AI Trainer**
+# <p align="center">Hassan Hussein (Omara)</p>
+### <p align="center">Software Engineer | Flutter Specialist | AI Trainer</p>
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=hassanomara842&label=Profile%20views&color=0e75b6&style=flat" alt="hassanomara842" />
-</p>
-
----
-
-### 🚀 About Me
-I am a specialized **Software Engineer** dedicated to crafting high-performance, scalable mobile applications. With a deep focus on **Flutter**, I don't just build apps; I engineer experiences using **Clean Architecture** and **Performance Optimization** techniques.
-
-- 🔭 **Strategic Projects:** Developing an Isometric Game Engine & Advanced File Conversion Suite.
-- 🧪 **AI Training:** Specialized in RLHF and Code Quality evaluation for LLMs.
-- 💬 **Expertise:** Ask me about **BLoC**, **Flutter Performance**, or **Backend Integrations**.
-
----
-
-### 🛠 My Technical Arsenal
-
-| Category | Technologies |
-| :--- | :--- |
-| **Mobile Development** | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) |
-| **Backend & Logic** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) |
-| **Database & Cloud** | ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) |
-
----
-
-### 📈 Metrics & Insights
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hassanomara842&show_icons=true&theme=radical&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanomara842&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Hassan%20Hussein&fontSize=70&animation=fadeIn&fontAlignY=38" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PROFILE--VIEWS-0e75b6?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/github/followers/hassanomara842?label=FOLLOWERS&style=for-the-badge&color=blueviolet" />
+  <img src="https://img.shields.io/badge/FOCUS-MOBILE%20DEVELOPMENT-purple?style=for-the-badge" />
 </p>
 
 ---
 
-### 🤝 Let's Connect
-<p align="left">
-<a href="https://www.linkedin.com/in/hassan-omara-3b759b259" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Hassan Omara LinkedIn" height="30" /></a> 
-<a href="https://www.instagram.com/hassanomara842" target="blank"><img align="center" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Hassan Omara Instagram" height="30" /></a>
-</p>
+## 🔗 About Me
+
+<table align="center">
+  <tr>
+    <td width="50%">
+      
+```dart
+class Developer {
+  final String name = "Hassan Hussein";
+  final String role = "Software Engineer";
+  final List<String> specializations = [
+    "Flutter Development",
+    "Python Backend",
+    "AI Model Training",
+    "Clean Architecture"
+  ];
+
+  String getCurrentFocus() => "Building high-performance mobile apps";
+  String getEducation() => "Computer Science Student";
+}
