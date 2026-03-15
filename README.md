@@ -1,33 +1,36 @@
-# <p align="center">Hassan Hussein (Omara)</p>
+# <p align="center">⚡ HASSAN H. OMARA ⚡</p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=33e1ed&height=250&section=header&text=HASSAN%20H%20OMARA&fontSize=70&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Flutter%20Architect%20|%20AI%20Trainer%20|%20Backend%20Engineer&descAlignY=55&descFontSize=20&descFontColor=eeeeee" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00D1FF&center=true&vCenter=true&width=700&lines=FLUTTER+ARCHITECT;AI+TRAINER+%7C+RLHF+EXPERT;FULL-STACK+DEVELOPER;ALWAYS+OPTIMIZING+FOR+60+FPS" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hassanomara842&label=VISITORS&color=33e1ed&style=for-the-badge&logo=eye" alt="hassanomara842" />
-  <img src="https://img.shields.io/github/followers/hassanomara842?label=COMMUNITY&style=for-the-badge&color=8000ff&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-512BD4?style=for-the-badge&logo=work" />
+  <img src="https://img.shields.io/badge/VISITORS-00D1FF?style=for-the-badge&logo=cachet&logoColor=white" />
+  <img src="https://img.shields.io/github/followers/hassanomara842?label=NETWORK&style=for-the-badge&color=7000FF&logo=github" />
+  <img src="https://img.shields.io/badge/EXPERT-AI%20CODING-success?style=for-the-badge&logo=openai" />
 </p>
 
 ---
 
-## 🚀 Dynamic Engineer Class
+## 💻 System.Diagnostics (About Me)
 
-<table align="center" style="border-collapse: collapse; width: 100%;">
+<table align="center" style="width: 100%; border: none;">
   <tr>
-    <td width="60%" style="vertical-align: top; padding-right: 20px;">
-      
-```dart
-class HassanOmara {
-  final String currentRole = "Flutter Architect & AI Trainer";
-  final List<String> technicalFocus = [
-    "High-Performance Mobile Solutions (BLoC/Clean Architecture)",
-    "RLHF & LLM Code Quality Optimization (Outlier/Scale AI)",
-    "Isometric Game Development (Flame Engine)",
-    "Scalable .NET & Python Backends"
-  ];
-  final String location = "Alexandria, Egypt";
-  final bool availableForProjects = true;
+    <td width="50%" style="border: none; vertical-align: top;">
 
-  String getMission() => "Transforming complex logic into seamless, robust user experiences.";
+```dart
+/** * @status: Building Innovation
+ * @stack: Flutter, .NET, Python
+ * @focus: Scalability & UX
+ */
+class Hassan {
+  final String passion = "Performance";
+  final List<String> tech = [
+    "Clean Architecture",
+    "BLoC State Management",
+    "LLM Code Evaluation",
+    "Isometric Game Engines"
+  ];
+
+  bool isHighPerformance() => true;
+  String getGoal() => "Zero Junk Frames";
 }
